@@ -1,0 +1,12 @@
+Source: ros-indigo-qglv-toolkit
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <stonier@yujinrobot.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-qglv-toolkit
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-qglv-extras, ros-indigo-qglv-gallery, ros-indigo-qglv-opencv, ros-indigo-qglv-opengl, ros-indigo-qglv-pcl
+Description: Qt, QGLViewer, OpenGL, GLEW, GLUT and some extensions for using with robotics experiments.
