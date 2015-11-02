@@ -1,0 +1,13 @@
+ros-indigo-qglv-gallery (0.1.4-0saucy) saucy; urgency=high
+
+  * aborting support of qglviewer versions prior to 2.5 (that found on trusty)
+
+ -- Daniel Stonier <stonier@yujinrobot.com>  Sun, 01 Nov 2015 15:00:00 -0000
+
+ros-indigo-qglv-gallery (0.1.1-0saucy) saucy; urgency=high
+
+  * initial prototype
+
+ -- Daniel Stonier <stonier@yujinrobot.com>  Sun, 18 Oct 2015 15:00:00 -0000
+
+
