@@ -1,0 +1,12 @@
+Source: ros-indigo-qglv-opengl
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <stonier@yujinrobot.com>
+Build-Depends: debhelper (>= 9.0.0), freeglut3-dev, libeigen3-dev, libgl1-mesa-dev, libglew-dev, libglu1-mesa-dev, libxi-dev, libxmu-dev, ros-indigo-catkin, ros-indigo-cmake-modules, ros-indigo-ecl-build, ros-indigo-sophus
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-qglv-opengl
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, freeglut3-dev, libeigen3-dev, libgl1-mesa-dev, libglew-dev, libglu1-mesa-dev, libxi-dev, libxmu-dev, ros-indigo-ecl-build, ros-indigo-sophus
+Description: Drawing related methods restricted to only the opengl (gl/glu/glut) dependencies.
