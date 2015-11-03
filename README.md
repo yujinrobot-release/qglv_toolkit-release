@@ -1,3 +1,30 @@
+## qglv_toolkit (indigo) - 0.1.6-0
+
+The packages in the `qglv_toolkit` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --rosdistro indigo qglv_toolkit` on `Tue, 03 Nov 2015 02:58:31 -0000`
+
+These packages were released:
+- `qglv_extras`
+- `qglv_gallery`
+- `qglv_opencv`
+- `qglv_opengl`
+- `qglv_pcl`
+- `qglv_toolkit`
+
+Version of package(s) in repository `qglv_toolkit`:
+- upstream repository: https://github.com/yujinrobot/qglv_toolkit.git
+- release repository: https://github.com/yujinrobot-release/qglv_toolkit-release.git
+- rosdistro version: `0.1.5-0`
+- old version: `0.1.5-0`
+- new version: `0.1.6-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.10.30`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.35`
+
+
 ## qglv_toolkit (indigo) - 0.1.5-0
 
 The packages in the `qglv_toolkit` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --rosdistro indigo qglv_toolkit` on `Mon, 02 Nov 2015 05:26:57 -0000`
