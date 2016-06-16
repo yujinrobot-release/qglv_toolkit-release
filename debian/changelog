@@ -1,0 +1,14 @@
+ros-indigo-qglv-opengl (0.1.7-0trusty) trusty; urgency=high
+
+  * bugfix small arrows
+  * use inf as the potential field threshold
+
+ -- Daniel Stonier <stonier@yujinrobot.com>  Wed, 15 Jun 2016 15:00:00 -0000
+
+ros-indigo-qglv-opengl (0.1.1-0trusty) trusty; urgency=high
+
+  * ported from dslam_viewer 0.3.1
+
+ -- Daniel Stonier <stonier@yujinrobot.com>  Sun, 18 Oct 2015 15:00:00 -0000
+
+
